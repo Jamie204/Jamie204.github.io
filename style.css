@@ -219,11 +219,12 @@
 
 .box1 {
   background-color: rgb(245, 243, 241);
-  width: 100%;
+  width: 100vw;
   min-height: 100vh;
   border: 5px solid black;
   padding: 2%;
   margin-bottom: 10%;
+  max-width: 100%;
 }
 
 .wrapper{
