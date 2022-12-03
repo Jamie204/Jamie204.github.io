@@ -224,7 +224,7 @@
   border: 5px solid black;
   padding: 2%;
   margin-bottom: 10%;
-  max-width: 100%;
+  /* max-width: 100%; */
 }
 
 .wrapper{
